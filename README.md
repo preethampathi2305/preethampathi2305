@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=preethampathi2305" /> </p>
 <p align="center">
-<br><img src="tenor.gif" width="400px"><br/><br/>
+<br><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"><br/><br/>
 
 <h2 align="center">Hi there 👋</h2>
 
