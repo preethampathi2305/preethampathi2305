@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=preethampathi2305" /> </p>
 <p align="center">
-<br><img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/rolling_chair_reel_monchomasse.gif" width="400px"><br/><br/>
+<br><img src="tenor.gif" width="400px"><br/><br/>
 
 <h2 align="center">Hi there 👋</h2>
 
