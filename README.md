@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/preetham-reddy-pathi-15349b11b/">
-  <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="LinkdeIN" width="30px" class="fas fa-envelope-square"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:pathip2305@gmail.com">
