@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/preetham-reddy-pathi-15349b11b/">
-  <img align="center" alt="LinkdeIN" width="30px" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" />
+  <img align="center" alt="LinkdeIN" width="40px" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:pathip2305@gmail.com">
@@ -15,7 +15,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/preetham_pathi/">
-  <img align="center" alt="Instagram" width="30px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png" />
+  <img align="center" alt="Instagram" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png" />
 </a>&nbsp;&nbsp;&nbsp;
 
 </div >
